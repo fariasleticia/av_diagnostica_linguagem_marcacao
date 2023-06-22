@@ -1,0 +1,8 @@
+div {
+    width:fit-content;
+    height: fit-content;
+    margin: 10px;
+    padding: 50px;
+    border: 10px solid green;
+    color: brown;
+}
